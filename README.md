@@ -1,6 +1,6 @@
 ## Hi, I’m Varun 👋
 
-I’m working as a Connections Analyst and learning AWS through hands-on projects.
+I’m working as a Connections Analyst.
 My focus is mainly on cloud networking, security, and real-world architecture patterns.
 
 ### Featured Project
